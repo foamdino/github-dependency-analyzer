@@ -1,0 +1,1 @@
+Checks dependencies in `pom.xml` and `build.gradle` files
