@@ -5,9 +5,9 @@ description = "A tool to analyze dependencies between GitHub repositories."
 authors = ["Kev Jackson <foamdino@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/yourusername/github-dependency-analyzer"
-repository = "https://github.com/yourusername/github-dependency-analyzer"
-documentation = "https://github.com/yourusername/github-dependency-analyzer/wiki"
+homepage = "https://github.com/foamdino/github-dependency-analyzer"
+repository = "https://github.com/foamdno/github-dependency-analyzer"
+documentation = "https://github.com/foamdino/github-dependency-analyzer/wiki"
 
 [tool.poetry.dependencies]
 python = "^3.12"
